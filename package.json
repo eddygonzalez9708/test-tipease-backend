@@ -6,7 +6,6 @@
   },
   "main": "index.js",
   "scripts": {
-    "server": "nodemon",
     "start": "node index.js"
   },
   "repository": "https://github.com/tipease/back-end.git",
